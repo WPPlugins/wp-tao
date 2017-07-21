@@ -1,0 +1,1434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Tao\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-07 12:05+0100\n"
+"PO-Revision-Date: 2016-04-04 10:20+0200\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: pl_PL\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wp-tao"
+msgstr "https://wordpress.org/plugins/wp-tao"
+
+#. Author of the plugin
+msgid "WP Tao Co."
+msgstr "WP Tao Co."
+
+#. Author URI of the plugin
+msgid "http://wptao.org"
+msgstr "http://wptao.org"
+
+#: ../includes/admin/reports/class-basic-user-identified-contacts.php:45 ..
+#: /includes/admin/reports/class-basic-user-identified-contacts.php:46
+#: /includes/admin/reports/class-basic-user-identified-contacts.php:47
+#: /includes/admin/reports/class-basic-user-identified-contacts.php:48
+#, php-format
+msgid "<li>%s: 0</li>"
+msgstr "<li> %s: 0 </li>"
+
+#: ../includes/admin/reports/class-basic-user-identified-contacts.php:54
+#, php-format
+msgid "<li>%s: %d</li>"
+msgstr "<li>%s: %d</li>"
+
+#: ../includes/integrations/edd.php:80
+#, php-format
+msgid ""
+"WP Tao: The EDD currency (%s) is different from the WP Tao currency (%s). "
+"Make up your mind on one currency!"
+msgstr ""
+"WP Tao: La monnaie EDD (%s) est différente de la monnaie de WP Tao (%s). "
+"Choisissez une seule monnaie!"
+
+msgid "WP Tao"
+msgstr "WP Tao"
+
+#. Description of the plugin
+msgid ""
+"WP Tracker and Optimizer is an intuitive and powerful tool for tracking "
+"website visitors by small business owners."
+msgstr ""
+"WP Tracker and Optimizer est un outil intuitif et puissant pour le suivi des "
+"visiteurs du site Web par les propriétaires de petites et moyennes "
+"entreprises."
+
+#: ../wp-tao.php:204 ../wp-tao.php:211
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors, on triche?"
+
+#: ../wp-tao.php:438
+msgid ""
+"WP Tao: You need PHP version at least 5.3 to run this plugin. You are "
+"currently using PHP version "
+msgstr ""
+"Tao WP: Vous avez besoin de PHP version 5.3 au minimum pour ce plugin. Vous "
+"utilisez actuellement la version PHP "
+
+#: ../includes/class-wptao-helpers.php:114
+msgid "US Dollars (&#36;)"
+msgstr "Dollars US (&#36;)"
+
+#: ../includes/class-wptao-helpers.php:115
+msgid "Euros (&euro;)"
+msgstr "Euros (&euro;)"
+
+#: ../includes/class-wptao-helpers.php:116
+msgid "Pounds Sterling (&pound;)"
+msgstr "Livre Sterling (&pound;)"
+
+#: ../includes/class-wptao-helpers.php:117
+msgid "Australian Dollars (&#36;)"
+msgstr "Dollars Australien (&#36;)"
+
+#: ../includes/class-wptao-helpers.php:118
+msgid "Brazilian Real (R&#36;)"
+msgstr "Réal brésilien (&#36;)"
+
+#: ../includes/class-wptao-helpers.php:119
+msgid "Canadian Dollars (&#36;)"
+msgstr "Dollars Canadien (&#36;)"
+
+#: ../includes/class-wptao-helpers.php:120
+msgid "Czech Koruna"
+msgstr "Couronne tchèque"
+
+#: ../includes/class-wptao-helpers.php:121
+msgid "Danish Krone"
+msgstr "Couronne danoise"
+
+#: ../includes/class-wptao-helpers.php:122
+msgid "Hong Kong Dollar (&#36;)"
+msgstr "Dollar de Hong Kong (&#36;)"
+
+#: ../includes/class-wptao-helpers.php:123
+msgid "Hungarian Forint"
+msgstr "Forint hongrois"
+
+#: ../includes/class-wptao-helpers.php:124
+msgid "Israeli Shekel (&#8362;)"
+msgstr "Shekel Israélien (&#8362;)"
+
+#: ../includes/class-wptao-helpers.php:125
+msgid "Japanese Yen (&yen;)"
+msgstr "Yen Japonais (&yen;)"
+
+#: ../includes/class-wptao-helpers.php:126
+msgid "Malaysian Ringgits"
+msgstr "Ringgits Malaisie"
+
+#: ../includes/class-wptao-helpers.php:127
+msgid "Mexican Peso (&#36;)"
+msgstr "Peso mexicain (&#36;)"
+
+#: ../includes/class-wptao-helpers.php:128
+msgid "New Zealand Dollar (&#36;)"
+msgstr "Dollar Nouvelle Zélande (&#36;)"
+
+#: ../includes/class-wptao-helpers.php:129
+msgid "Norwegian Krone"
+msgstr "Couronne norvégienne"
+
+#: ../includes/class-wptao-helpers.php:130
+msgid "Philippine Pesos"
+msgstr "Peso Philippin"
+
+#: ../includes/class-wptao-helpers.php:131
+msgid "Polish Zloty"
+msgstr "Zloty polonais"
+
+#: ../includes/class-wptao-helpers.php:132
+msgid "Singapore Dollar (&#36;)"
+msgstr "Dollar de Singapour (&#36;)"
+
+#: ../includes/class-wptao-helpers.php:133
+msgid "Swedish Krona"
+msgstr "Couronne suédoise"
+
+#: ../includes/class-wptao-helpers.php:134
+msgid "Swiss Franc"
+msgstr "Franc suisse"
+
+#: ../includes/class-wptao-helpers.php:135
+msgid "Taiwan New Dollars"
+msgstr "Nouveaux Dollars de Taiwan"
+
+#: ../includes/class-wptao-helpers.php:136
+msgid "Thai Baht (&#3647;)"
+msgstr "Baht thaïlandais (&#3647;)"
+
+#: ../includes/class-wptao-helpers.php:137
+msgid "Indian Rupee (&#8377;)"
+msgstr "Roupie indienne (&#8377;)"
+
+#: ../includes/class-wptao-helpers.php:138
+msgid "Turkish Lira (&#8378;)"
+msgstr "Lire Turque (&#8378;)"
+
+#: ../includes/class-wptao-helpers.php:139
+msgid "Iranian Rial (&#65020;)"
+msgstr "Rial iranien (&#65020;)"
+
+#: ../includes/class-wptao-helpers.php:140
+msgid "Russian Rubles"
+msgstr "Rouble russe"
+
+#: ../includes/class-wptao-helpers.php:333
+msgid "Done"
+msgstr "Terminé"
+
+#: ../includes/class-wptao-helpers.php:334
+msgid "Today"
+msgstr "Aujourd’hui"
+
+#: ../includes/class-wptao-helpers.php:337
+msgid "Show a different month"
+msgstr "Afficher un autre mois"
+
+#: ../includes/class-wptao-helpers.php:729
+msgid "3 days"
+msgstr "3 jours"
+
+#: ../includes/class-wptao-helpers.php:730
+msgid "7 days"
+msgstr "7 jours"
+
+#: ../includes/class-wptao-helpers.php:731
+msgid "30 days"
+msgstr "30 jours"
+
+#: ../includes/class-wptao-helpers.php:732
+msgid "90 days"
+msgstr "90 jours"
+
+#: ../includes/class-wptao-helpers.php:733
+msgid "180 days"
+msgstr "180 jours"
+
+#: ../includes/class-wptao-helpers.php:734
+msgid "365 days"
+msgstr "365 jours"
+
+#: ../includes/class-wptao-users.php:304
+#, php-format
+msgid "Unknown name (%d)"
+msgstr "Nom inconnu (%d)"
+
+#: ../includes/class-wptao-users.php:415
+msgid "Valid"
+msgstr "Valide"
+
+#: ../includes/class-wptao-users.php:419
+msgid "Disposable"
+msgstr "Jetable"
+
+#: ../includes/class-wptao-users.php:423
+msgid "Invalid"
+msgstr "Invalide"
+
+#: ../includes/class-wptao-users.php:427
+msgid "Blacklisted"
+msgstr "Dans la liste noir"
+
+#: ../includes/class-wptao-users.php:431
+msgid "Undeterminied"
+msgstr "Indéterminé"
+
+#: ../includes/class-wptao-events.php:186
+#: ../includes/class-wptao-events.php:249 . includes/events/contact.php:99
+#: ../includes/events/comment.php:32
+msgid "Contact"
+msgstr "Contact"
+
+#: ../includes/class-wptao-events.php:187
+msgid "Traffic"
+msgstr "Trafic"
+
+#: ../includes/class-wptao-events.php:188
+msgid "Commerce"
+msgstr "Commerce"
+
+#: ../includes/class-wptao-events.php:189 ../includes/admin/class-wptao-admin-
+#: users-list.php:53 ../includes/admin/views/reports/basic-sale-user.php:11 ..
+#: /includes/admin/views/reports/basic-sale-user.php:26
+#: /includes/admin/views/reports/basic-sale-user.php:52
+msgid "User"
+msgstr "Utilisateur"
+
+#: ../includes/class-wptao-events.php:208
+msgid "Visit page"
+msgstr "Visitez la page"
+
+#: ../includes/class-wptao-events.php:218 ../includes/events/search.php:18
+msgid "Search"
+msgstr "Recherche"
+
+#: ../includes/class-wptao-events.php:228
+msgid "Login"
+msgstr "Connexion"
+
+#: ../includes/class-wptao-events.php:239
+msgid "Register"
+msgstr "Inscription"
+
+#: ../includes/class-wptao-events.php:259
+msgid "Comment"
+msgstr "Commentaire"
+
+#: ../includes/class-wptao-events.php:269 ../includes/events/identified.php:20
+msgid "User identified"
+msgstr "Utilisateur identifié"
+
+#: ../includes/class-wptao-events.php:279
+msgid "New order"
+msgstr "Nouvelle commande"
+
+#: ../includes/class-wptao-events.php:289 ../includes/events/payment.php:47 ..
+#: /includes/events/payment.php:95
+msgid "Payment"
+msgstr "Paiement"
+
+#: ../includes/class-wptao-events.php:299
+#: ../includes/events/remove_from_cart.php:16
+#: ../includes/events/add_to_cart.php:15 ../includes/events/add_to_cart.php:58
+msgid "Add to cart"
+msgstr "Ajouter au panier"
+
+#: ../includes/class-wptao-events.php:309
+#: ../includes/events/remove_from_cart.php:59
+msgid "Remove from cart"
+msgstr "Retirer du panier"
+
+#: ../includes/class-wptao-events.php:845
+msgid "Are you sure that you want to permanently delete this event?"
+msgstr "Êtes-vous certain de vouloir supprimer définitivement cet évènement?"
+
+#: ../includes/admin/class-wptao-admin-menus.php:43
+#: ../includes/admin/class-wptao- admin-menus.php:43
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: ../includes/admin/class-wptao-admin-menus.php:51
+#: ../includes/admin/class-wptao- admin-menus.php:51
+msgid "Identified"
+msgstr "Identifiés"
+
+#: ../includes/admin/class-wptao-admin-menus.php:59
+#: ../includes/admin/class-wptao- admin-menus.php:59
+msgid "Events"
+msgstr "Évènements"
+
+#: ../includes/admin/class-wptao-admin-menus.php:67
+msgid "WP Tao Settings"
+msgstr "Réglages de WP Tao"
+
+#: ../includes/admin/class-wptao-admin-menus.php:67
+msgid "Settings"
+msgstr "Réglages"
+
+#: ../includes/admin/class-wptao-admin-menus.php:75
+#: ../includes/admin/class-wptao- admin-menus.php:75
+msgid "WP Tao Upgrades"
+msgstr "Mises à jour de WP Tao"
+
+#: ../includes/admin/hints.php:67
+#, php-format
+msgid "High abandoned carts rate! (%.2f%%)"
+msgstr "Taux élevé de paniers abandonnés! (%.2f%%)"
+
+#: ../includes/admin/hints.php:69
+#, php-format
+msgid ""
+"It means that about %.2f%% of carts were abandoned during the past 30 days."
+msgstr ""
+"Cela signifie que %.2f%% des paniers ont été abandonnés au cours des 30 "
+"derniers jours."
+
+#: ../includes/admin/hints.php:70
+msgid "Some reasons for a high abandoned carts rate"
+msgstr "Quelques raisons d’un taux élevé de paniers abandonnés"
+
+#: ../includes/admin/hints.php:75
+msgid "Unfavorable shipping - slow, high cost or listed late"
+msgstr "Livraison défavorable - lenteur, coût élevé ou répertoriés tardivement"
+
+#: ../includes/admin/hints.php:76
+msgid ""
+"<b>Status</b>: WP Tao detected that your sales platform has enabled shipping."
+msgstr ""
+"<b>Statut</b>: WP Tao a détecté que votre plate-forme de vente a activé la "
+"livraison."
+
+#: ../includes/admin/hints.php:77
+msgid ""
+"<b>Hint</b>: try to offer free shipping for as many orders as is possible. "
+"Also clearly inform customers about additional fees <b>before</b> they land "
+"on checkout page."
+msgstr ""
+"<b>Astuce</b>: Essayez d’offrir la livraison gratuite pour les commandes "
+"autant que possible et aussi d’informer clairement les clients sur les taxes "
+"additionnelles <b>avant</b> qu’ils arrivent sur la page de paiement."
+
+#: ../includes/admin/hints.php:81
+msgid "Forced to create an account"
+msgstr "Création de compte obligatoire"
+
+#: ../includes/admin/hints.php:82
+msgid ""
+"<b>Status</b>: WP Tao detected that your sales platform has disabled "
+"checkout without registration."
+msgstr ""
+"<b>Statut</b>: WP Tao a détecté que votre plate-forme de vente a désactivé "
+"le passage en caisse sans inscription."
+
+#: ../includes/admin/hints.php:83
+msgid ""
+"<b>Hint</b>: allow customers to checkout without creating an account. If, "
+"for some reason, you want to users create accounts, do it for them - just by "
+"implement auto register functionality."
+msgstr ""
+"<b>Astuce</b>: permettre aux clients de commander sans créer un compte. Si, "
+"pour une raison quelconque, vous souhaitez créer des comptes d’utilisateurs, "
+"faites-le pour eux - juste par la mise en place d’une fonctionnalité "
+"d’inscription automatique."
+
+#: ../includes/admin/hints.php:87
+msgid "Unsecure checkout"
+msgstr "Paiement non sécurisé"
+
+#: ../includes/admin/hints.php:88
+msgid ""
+"<b>Status</b>: WP Tao detected that your sales platform has not force SSL on "
+"checkout."
+msgstr ""
+"<b>Statut</b>: WP Tao a détecté que votre plate-forme de vente n’a pas "
+"forcer le SSL (protocole de sécurisation des échanges) lors du règlement."
+
+#: ../includes/admin/hints.php:89
+msgid ""
+"<b>Hint</b>: force SSL on checkout especially if you have enabled payments "
+"by credit cards."
+msgstr ""
+"<b>Astuce</b>: forcer le SSL (protocole de sécurisation des échanges) lors "
+"du passage en caisse, surtout si vous avez activé les paiements par cartes "
+"de crédit."
+
+#: ../includes/admin/hints.php:93
+msgid "Could not find discount coupon"
+msgstr "Coupon-rabais introuvable"
+
+#: ../includes/admin/hints.php:94
+msgid ""
+"<b>Status</b>: WP Tao detected that your sales platform has enabled "
+"discounts. Customer can see coupon input field but can has no discount and "
+"will try to find one instead of make an order."
+msgstr ""
+"<b>Statut</b>: WP Tao a détecté que votre plate-forme de vente a activé les "
+"réductions. Le client peut voir les champs d’entrée des coupons mais ne peut "
+"bénéficier d’aucune réduction et va tenter d’en trouver une pour passer "
+"commande."
+
+#: ../includes/admin/hints.php:95
+msgid ""
+"<b>Hint</b>: disable coupons if you don't need them. Otherwise give every "
+"customer small discount (e.g. 3%) for signing up for the newsletter or "
+"sharing on social media (or just because is such promotion for all)."
+msgstr ""
+"<b>Astuce</b>: désactiver les bons de réduction si vous n’avez pas besoin. "
+"Sinon, donner à chaque client petite remise (3 %) s’ils s’inscrivent à la "
+"newsletter ou partagent sur les réseaux sociaux (ou juste pour une promotion "
+"applicable à tous)."
+
+#: ../includes/admin/hints.php:98
+msgid "Complicated checkout process"
+msgstr "Processus de paiement compliqué"
+
+#: ../includes/admin/hints.php:99
+msgid ""
+"<b>Hint</b>: make the test order and see what actions can be a hassle for "
+"the customer (long forms, too many steps, errors). After that - try to "
+"optimize most problematic checkout steps."
+msgstr ""
+"<b>Astuce</b>: faire le test de commander et voir quelles actions peuvent-"
+"elle être un problème pour le client (formulaires trop longs, trop d’étapes, "
+"erreurs). Après cela, essayez d’optimiser les étapes de passage à la caisse "
+"plus problématiques."
+
+#: ../includes/admin/hints.php:101
+msgid "Lack of information"
+msgstr "Manque d’information"
+
+#: ../includes/admin/hints.php:102
+msgid ""
+"<b>Hint</b>: Maybe you need to complement the key information about product "
+"or give clear indication where to customer can find them?"
+msgstr ""
+"<b>Astuce</b>: peut-être avez-vous besoin d’ajouter des informations clés "
+"sur le produit ou d’indiquer clairement où le client peut les trouver?"
+
+#: ../includes/admin/hints.php:104
+msgid "High cost of product"
+msgstr "Coût élevé du produit"
+
+#: ../includes/admin/hints.php:105
+msgid ""
+"<b>Hint</b>: maybe you should introduce <b>cheaper version</b> of product?"
+msgstr ""
+"<b>Astuce</b>: peut-être devriez-vous introduire <b>une version bon marchée</"
+"b> du produit?"
+
+#: ../includes/admin/class-wptao-admin-users.php:92
+#: ../includes/admin/class-wptao- admin-users.php:137
+msgid "You do not have permission to edit this user."
+msgstr "Vous n’avez pas la permission de modifier cet utilisateur."
+
+#: ../includes/admin/class-wptao-admin-users.php:150
+msgid "The record's  events and fingerprints were successfully deleted."
+msgstr ""
+"L’enregistrement des événements des empreintes digitales ont été supprimés "
+"avec succès."
+
+#: ../includes/admin/class-wptao-admin-users.php:158
+msgid "The record was successfully added to the blacklist."
+msgstr "L’enregistrement a été ajouté à la liste noire avec succès."
+
+#: ../includes/admin/class-wptao-admin-users.php:166
+msgid "The record was successfully removed from the blacklist."
+msgstr "L’enregistrement a été correctement supprimé de la liste noire."
+
+#: ../includes/admin/class-wptao-admin-users.php:178
+msgid "The record was successfully deleted."
+msgstr "L’enregistrement a été supprimé avec succès."
+
+#: ../includes/admin/class-wptao-admin-users.php:182
+msgid "No action was performed."
+msgstr "Aucune action n’a été effectuée."
+
+#: ../includes/admin/class-wptao-admin-dashboard.php:160
+msgid "See a complete report"
+msgstr "Voir le rapport complet"
+
+#: ../includes/admin/class-wptao-admin-dashboard.php:255
+msgid "Show hints"
+msgstr "Afficher les astuces"
+
+#: ../includes/admin/class-wptao-admin-users-list.php:54
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: ../includes/admin/class-wptao-admin-users-list.php:160 ..
+#: /includes/admin/views/reports/basic-user-identified-contacts.php:9
+#: /includes/admin/views/reports/basic-user-identified-contacts.php:26
+#: /includes/admin/views/reports/basic-user-identified-contacts.php:47
+msgid "Name"
+msgstr "Nom"
+
+#: ../includes/admin/class-wptao-admin-users-list.php:161 ..
+#: /includes/admin/views/html-admin-user-edit.php:55
+#: /includes/admin/views/reports/basic-user-identified-contacts.php:10
+#: /includes/admin/views/reports/basic-user-identified-contacts.php:27
+#: /includes/admin/views/reports/basic-user-identified-contacts.php:48
+msgid "Email"
+msgstr "E-mail "
+
+#: ../includes/admin/class-wptao-admin-users-list.php:162 ..
+#: /includes/admin/views/html-admin-user-profile.php:39
+#: /includes/admin/views/html-admin-user-edit.php:60
+#: ../includes/admin/views/html- admin-user-actions.php:46
+#: ../includes/admin/views/reports/basic-user- identified-contacts.php:11
+#: identified-contacts.php:28 identified-contacts.php:49
+msgid "Phone"
+msgstr "Téléphone"
+
+#: ../includes/admin/class-wptao-admin-users-list.php:163
+msgid "Created"
+msgstr "Créé(e)"
+
+#: ../includes/admin/class-wptao-admin-users-list.php:164
+msgid "Last Active"
+msgstr "Dernière activité"
+
+#: ../includes/admin/class-wptao-admin-users-list.php:219
+msgid "Show profile"
+msgstr "Afficher le profil"
+
+#: ../includes/admin/class-wptao-admin-users-list.php:220
+msgid "Edit"
+msgstr "Modifier"
+
+#: ../includes/admin/class-wptao-admin-users-list.php:221 ..
+#: /includes/admin/views/html-admin-user-profile.php:28
+#: /includes/admin/views/html-admin-user-actions.php:52
+#: /includes/admin/views/elements/timeline-filter.php:29
+msgid "Actions"
+msgstr "Actions"
+
+#: ../includes/admin/class-wptao-admin-users-list.php:275
+msgid "N/A"
+msgstr "N/A"
+
+#: ../includes/admin/class-wptao-admin-users-list.php:278 ..
+#: /includes/admin/views/html-admin-user-profile.php:42
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "Il y a %s"
+
+#: ../includes/admin/class-wptao-admin-users-list.php:354
+msgid "No users found."
+msgstr "Aucun utilisateur trouvé."
+
+#: ../includes/admin/upgrades/upgrades.php:37
+msgid "WP Tao - Upgrades"
+msgstr "Mises à jour de WP Tao"
+
+#: ../includes/admin/upgrades/upgrades.php:44
+msgid ""
+"The upgrade process has started, please be patient. This could take several "
+"minutes. You will be automatically redirected when the upgrade is finished."
+msgstr ""
+"Le processus de mise à jour a commencé, soyez patient. Cela pourrait prendre "
+"quelques minutes. Vous serez automatiquement redirigé lorsque le processus "
+"sera terminé."
+
+#: ../includes/admin/upgrades/upgrades.php:58
+msgid "There is nothing to upgrade!"
+msgstr "Il n’y a rien à mettre à jour!"
+
+#: ../includes/admin/upgrades/upgrade-functions.php:44
+#, php-format
+msgid ""
+"WP Tao needs to upgrade the pageview events, click %shere%s to start the "
+"upgrade."
+msgstr ""
+"WP Tao doit mettre à jour les pages de visualisation des événements, cliquez "
+"sur %shere %s pour démarrer la mise à niveau."
+
+#: ../includes/admin/upgrades/upgrade-functions.php:57
+#, php-format
+msgid ""
+"WP Tao needs to upgrade the order and payment events, click %shere%s to "
+"start the upgrade."
+msgstr ""
+"WP Tao doit mettre à jour les événements de commande et paiement, cliquez "
+"%ssur ce lien %s pour démarrer la mise à niveau."
+
+#: ../includes/admin/upgrades/upgrade-functions.php:70
+#, php-format
+msgid ""
+"WP Tao needs to upgrade the identifieds data, click %shere%s to start the "
+"upgrade."
+msgstr ""
+"WP Tao doit mettre à jour les données d’identifiés, cliquez sur %ssur ce "
+"lien %s pour démarrer la mise à niveau."
+
+#: ../includes/admin/upgrades/upgrade-functions.php:120 ..
+#: /includes/admin/upgrades/upgrade-functions.php:187
+#: /includes/admin/upgrades/upgrade-functions.php:238
+msgid "You do not have permission to do WP Tao upgrades"
+msgstr "Vous n’êtes pas autorisé à faire les mises à niveau WP Tao"
+
+#: ../includes/admin/upgrades/upgrade-functions.php:120 ..
+#: /includes/admin/upgrades/upgrade-functions.php:187
+#: /includes/admin/upgrades/upgrade-functions.php:238
+msgid "Error"
+msgstr "Erreur"
+
+#: ../includes/admin/settings/class-settings-api.php:386
+msgid "Choose File"
+msgstr "Choisissez fichier"
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:68
+msgid "General"
+msgstr "Réglages généraux"
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:72
+msgid "Maintenance"
+msgstr "Maintenance"
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:76
+msgid "Extensions"
+msgstr "Extensions"
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:92
+msgid "Currency"
+msgstr "Devise"
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:93
+msgid "Select the currency you use for sale."
+msgstr "Sélectionnez la devise utilisée pour la vente."
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:100
+msgid "Notice email"
+msgstr "Notification par email"
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:101
+msgid "Set the email for notifications from WP Tao."
+msgstr "Définir le courrier électronique pour les notifications de WP Tao."
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:107
+msgid "Do not track users with specific roles"
+msgstr "Ne pas suivre les utilisateurs qui possèdent des rôles spécifiques"
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:114
+msgid "Wipe data when uninstalling"
+msgstr "Supprimer toutes les données lors de la désinstallation"
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:115
+msgid ""
+"Checking this option will delete all events and users when uninstalling the "
+"plugin via Installed plugins &#8594; WP Tao &#8594; Delete"
+msgstr ""
+"Cette option supprime tous les événements et les utilisateurs lors de la "
+"désinstallation du plug-in via Plugins installés &#8594; WP Tao &#8594; "
+"Supprimer"
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:121
+msgid "Exclude blacklist"
+msgstr "Exclure la liste noire"
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:122
+msgid "Check this box if you would like to exclude blacklisted from users list"
+msgstr ""
+"Cochez cette case si vous souhaitez exclure de la liste des utilisateurs des "
+"utilisateurs présents sur la liste noire"
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:130
+msgid "<h2>Database</h2>"
+msgstr "<h2>Base de données</h2>"
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:135
+msgid "WP Tao database size"
+msgstr "Taille de de la base de données WP Tao"
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:141
+msgid "Events with limited storage time"
+msgstr "Évènements avec durée de conservation limitée"
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:142
+msgid ""
+"Select which events will have <b>limited</b> storage time. Unselected items "
+"will be stored for unlimited time."
+msgstr ""
+"Sélectionnez les évènements qui auront un temps de stockage <b>limité</b>. "
+"Les éléments non sélectionnés seront stockés pour une période illimitée."
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:148
+msgid "Storage time for selected events"
+msgstr "Durée de conservation pour les événements sélectionnés"
+
+#: ../includes/admin/settings/class-wptao-core-settings.php:149
+msgid "How long keep selected events in database?"
+msgstr ""
+"Combien de temps garder dans la base de données les événements sélectionnés?"
+
+#: ../includes/admin/views/html-admin-events.php:6
+msgid "WP TAO Events overview"
+msgstr "Aperçu des évènements WP Tao"
+
+#: ../includes/admin/views/html-admin-events.php:18
+msgid "Total events"
+msgstr "Nombre total d’évènements"
+
+#: ../includes/admin/views/html-admin-events.php:21
+msgid "From"
+msgstr "De"
+
+#: ../includes/admin/views/html-admin-events.php:25
+msgid "to"
+msgstr "à"
+
+#: ../includes/admin/views/html-admin-events.php:88
+#: ../includes/admin/views/html- admin-user-profile.php:91
+msgid "Load older events"
+msgstr "Charger les évènements plus anciens"
+
+#: ../includes/admin/views/html-admin-users-list.php:11
+msgid "WP TAO Identified"
+msgstr "Identifiés WP Tao"
+
+#: ../includes/admin/views/html-admin-users-list.php:16
+msgid "Search Identified"
+msgstr "Recherche d’identifiés"
+
+#: ../includes/admin/views/html-admin-settings.php:5
+msgid "WP TAO Settings"
+msgstr "Réglages de WP Tao"
+
+#: ../includes/admin/views/html-admin-user-profile.php:5
+msgid "Profile"
+msgstr "Profil"
+
+#: ../includes/admin/views/html-admin-user-profile.php:13 ..
+#: /includes/admin/views/html-admin-user-edit.php:22
+#: ../includes/admin/views/html- admin-user-actions.php:22
+msgid "Back to Identified"
+msgstr "Retour aux Identifiés"
+
+#: ../includes/admin/views/html-admin-user-profile.php:27
+msgid "Edit profile"
+msgstr "Modifier le profil"
+
+#: ../includes/admin/views/html-admin-user-profile.php:35 ..
+#: /includes/admin/views/html-admin-user-actions.php:40
+msgid "E-mail"
+msgstr "Email"
+
+#: ../includes/admin/views/html-admin-user-profile.php:42
+msgid "Last active"
+msgstr "Dernière activité"
+
+#: ../includes/admin/views/html-admin-user-profile.php:54
+msgid "Fingerprints"
+msgstr "Empreintes digitales"
+
+#: ../includes/admin/views/html-admin-user-profile.php:57
+msgid "ID:"
+msgstr "ID:"
+
+#: ../includes/admin/views/html-admin-user-profile.php:58
+msgid "Created:"
+msgstr "Créé le :"
+
+#: ../includes/admin/views/html-admin-user-profile.php:59
+msgid "IP:"
+msgstr "IP :"
+
+#: ../includes/admin/views/html-admin-user-profile.php:60
+msgid "User agent:"
+msgstr "Agent utilisateur :"
+
+#: ../includes/admin/views/html-admin-user-edit.php:4 ..
+#: /includes/admin/views/html-admin-user-actions.php:4
+msgid "Record updated."
+msgstr "Enregistrement mis à jour"
+
+#: ../includes/admin/views/html-admin-user-edit.php:10 ..
+#: /includes/admin/views/html-admin-user-actions.php:10
+#, php-format
+msgid "This e-mail address already exists! ( %s )"
+msgstr "Cette adresse email existe déjà! ( %s )"
+
+#: ../includes/admin/views/html-admin-user-edit.php:27
+msgid "Edit record"
+msgstr "Modifier l’enregistrement"
+
+#: ../includes/admin/views/html-admin-user-edit.php:35
+msgid "Personal info"
+msgstr "Informations personnels"
+
+#: ../includes/admin/views/html-admin-user-edit.php:40
+msgid "First name"
+msgstr "Prénom"
+
+#: ../includes/admin/views/html-admin-user-edit.php:41
+msgid "User's first name."
+msgstr "Prénom de l’utilisateur"
+
+#: ../includes/admin/views/html-admin-user-edit.php:45
+msgid "Last name"
+msgstr "Nom"
+
+#: ../includes/admin/views/html-admin-user-edit.php:50
+msgid "Contact info"
+msgstr "Informations de contact"
+
+#: ../includes/admin/views/html-admin-user-edit.php:66
+msgid "Other info"
+msgstr "Autres informations"
+
+#: ../includes/admin/views/html-admin-user-edit.php:71
+msgid "Notes"
+msgstr "Notes"
+
+#: ../includes/admin/views/html-admin-user-edit.php:80
+msgid "Update record"
+msgstr "Mise à jour des enregistrements"
+
+#: ../includes/admin/views/html-admin-dashboard.php:7
+msgid "WP TAO Overview. Last 30 days."
+msgstr "Aperçu de WP TAO. 30 derniers jours."
+
+#: ../includes/admin/views/html-admin-user-actions.php:27
+msgid "Actions for record"
+msgstr "Actions pour l’enregistrement"
+
+#: ../includes/admin/views/html-admin-user-actions.php:34
+msgid "Info"
+msgstr "Information"
+
+#: ../includes/admin/views/html-admin-user-actions.php:58
+msgid "Add to blacklist"
+msgstr "Ajouter à la liste noire"
+
+#: ../includes/admin/views/html-admin-user-actions.php:59
+msgid "Add this record to the blacklist"
+msgstr "Ajoutez cet enregistrement à la liste noire"
+
+#: ../includes/admin/views/html-admin-user-actions.php:63
+msgid "Remove from blacklist"
+msgstr "Retirer de la liste noire"
+
+#: ../includes/admin/views/html-admin-user-actions.php:64
+msgid "Remove this record from the blacklist"
+msgstr "Retirer cet enregistrement de la liste noire"
+
+#: ../includes/admin/views/html-admin-user-actions.php:69
+msgid "Delete record"
+msgstr "Supprimer l’enregistrement"
+
+#: ../includes/admin/views/html-admin-user-actions.php:70
+msgid "Delete record (will not delete events and fingerprints)"
+msgstr ""
+"Supprimer l’enregistrement (ne supprime pas les évènements et les empreintes "
+"digitales)"
+
+#: ../includes/admin/views/html-admin-user-actions.php:74
+msgid "Delete events"
+msgstr "Supprimés les évènements"
+
+#: ../includes/admin/views/html-admin-user-actions.php:75
+msgid "Delete all events and fingerprints connected with this record"
+msgstr ""
+"Supprimer tous les évènements et les empreintes digitales liés à cet "
+"enregistrement"
+
+#: ../includes/admin/views/html-admin-user-actions.php:81
+msgid "Perform actions"
+msgstr "Effectuer les actions"
+
+#: ../includes/admin/views/elements/report-filter.php:9 ..
+#: /includes/admin/views/elements/timeline-filter.php:14
+msgid "Start date"
+msgstr "Date de début"
+
+#: ../includes/admin/views/elements/report-filter.php:15 ..
+#: /includes/admin/views/elements/timeline-filter.php:15
+msgid "End date"
+msgstr "Date de fin"
+
+#: ../includes/admin/views/elements/report-filter.php:21
+msgid "Number of records:"
+msgstr "Nombre d’enregistrements :"
+
+#: ../includes/admin/views/elements/report-filter.php:31 ..
+#: /includes/admin/views/elements/timeline-filter.php:69
+msgid "Sort"
+msgstr "Trier"
+
+#: ../includes/admin/views/elements/timeline-filter.php:6
+msgid "Timeline filter"
+msgstr "Filtre chronologique"
+
+#: ../includes/admin/views/elements/timeline-filter.php:13
+msgid "Date and number of events"
+msgstr "Date et numéro d’évènements"
+
+#: ../includes/admin/views/elements/timeline-filter.php:19
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../includes/admin/views/elements/timeline-filter.php:39
+msgid "Tags"
+msgstr "Mots-clés"
+
+#: ../includes/admin/views/elements/timeline-filter.php:48
+msgid "Display"
+msgstr "Affichage"
+
+#: ../includes/admin/views/elements/timeline-filter.php:52
+msgid "Identification: "
+msgstr "Identification: "
+
+#: ../includes/admin/views/elements/timeline-filter.php:54
+msgid "Show all"
+msgstr "Tout voir"
+
+#: ../includes/admin/views/elements/timeline-filter.php:55
+msgid "Only identified"
+msgstr "Identifiés seulement"
+
+#: ../includes/admin/views/elements/timeline-filter.php:56
+msgid "Only unidentified"
+msgstr "Seulement non identifiés"
+
+#: ../includes/admin/views/elements/timeline-filter.php:61
+msgid "Events per page:"
+msgstr "Évènements par page :"
+
+#: ../includes/admin/views/elements/dashboard-screen-options.php:5
+msgid "Screen options"
+msgstr "Options de l’écran"
+
+#: ../includes/admin/views/elements/dashboard-screen-options.php:8
+msgid "Espresso reports"
+msgstr "Rapports Expresso"
+
+#: ../includes/admin/views/elements/dashboard-screen-options.php:21
+msgid "Apply"
+msgstr "Appliquer"
+
+#: ../includes/admin/views/elements/report-return.php:4
+msgid "Back to dashboard"
+msgstr "Retour au tableau de bord"
+
+#: ../includes/admin/views/elements/timeline.php:3
+msgid "No events found!"
+msgstr "Aucun évènement trouvé!"
+
+#: ../includes/admin/views/elements/timeline.php:13
+#, php-format
+msgid "Sort by %s"
+msgstr "Trier par %s"
+
+#: ../includes/admin/views/elements/timeline.php:64
+#, php-format
+msgid "Unidentified user (%d)"
+msgstr "Utilisateur non identifié (%d)"
+
+#: ../includes/admin/views/elements/timeline.php:86
+msgid "Delete"
+msgstr "Supprimer"
+
+#: ../includes/admin/views/reports/basic-sale-total.php:6 ..
+#: /includes/admin/reports/class-basic-sale-total.php:155
+msgid "Amount"
+msgstr "Montant"
+
+#: ../includes/admin/views/reports/basic-sale-total.php:10 ..
+#: /includes/admin/views/reports/basic-sale-total.php:29
+#: /includes/admin/views/reports/basic-sale-total.php:44
+#: /includes/admin/views/reports/basic-sale-total.php:63
+#: /includes/admin/views/reports/basic-sale-user.php:13
+#: /includes/admin/views/reports/basic-sale-user.php:35
+#: /includes/admin/views/reports/basic-sale-user.php:54
+#: /includes/admin/reports/class-basic-sale-total.php:185
+msgid "Orders"
+msgstr "Commandes"
+
+#: ../includes/admin/views/reports/basic-sale-total.php:27 ..
+#: /includes/admin/views/reports/basic-sale-total.php:42
+#: /includes/admin/views/reports/basic-sale-total.php:61
+#: /includes/admin/views/reports/visitors.php:29
+#: /includes/admin/views/reports/visitors.php:44
+#: /includes/admin/views/reports/visitors.php:63
+#: /includes/admin/views/reports/basic-contact.php:13
+#: /includes/admin/views/reports/basic-contact.php:27
+#: /includes/admin/views/reports/basic-contact.php:45
+#: /includes/admin/views/reports/logins.php:20
+#: /includes/admin/views/reports/logins.php:35
+#: /includes/admin/views/reports/logins.php:54
+#: /includes/admin/views/reports/basic-user-register.php:16
+#: /includes/admin/views/reports/basic-user-register.php:30
+#: /includes/admin/views/reports/basic-user-register.php:48
+#: /includes/admin/reports/class-basic-sale-total.php:154
+#: /includes/admin/reports/class-basic-sale-total.php:184
+#: /includes/admin/reports/class-visitors.php:199
+#: ../includes/admin/reports/class- visitors.php:233
+#: ../includes/admin/reports/class-basic-contact.php:118
+msgid "Date"
+msgstr "Date"
+
+#: ../includes/admin/views/reports/basic-sale-total.php:28 ..
+#: /includes/admin/views/reports/basic-sale-total.php:43
+#: /includes/admin/views/reports/basic-sale-total.php:62
+#: /includes/admin/views/reports/basic-sale-user.php:12
+#: /includes/admin/views/reports/basic-sale-user.php:34
+#: /includes/admin/views/reports/basic-sale-user.php:53
+#, php-format
+msgid "Amount [%s]"
+msgstr "Montant [%s]"
+
+#: ../includes/admin/views/reports/basic-sale-total.php:53 ..
+#: /includes/admin/views/reports/most-visited-pages.php:35
+#: /includes/admin/views/reports/basic-user-identified-contacts.php:38
+#: /includes/admin/views/reports/basic-sale-user.php:44
+#: /includes/admin/views/reports/visitors.php:55
+#: /includes/admin/views/reports/frequency-search.php:33
+#: /includes/admin/views/reports/basic-contact.php:37
+#: /includes/admin/views/reports/logins.php:46
+#: /includes/admin/views/reports/basic-user-register.php:40
+#: /includes/admin/reports/class-basic-sale-user.php:71
+#: /includes/admin/reports/class-frequency-search.php:46
+msgid "No results!"
+msgstr "Aucun résultat!"
+
+#: ../includes/admin/views/reports/most-visited-pages.php:9 ..
+#: /includes/admin/views/reports/most-visited-pages.php:24
+#: /includes/admin/views/reports/most-visited-pages.php:43
+msgid "Page"
+msgstr "Page"
+
+#: ../includes/admin/views/reports/most-visited-pages.php:10 ..
+#: /includes/admin/views/reports/most-visited-pages.php:25
+#: /includes/admin/views/reports/most-visited-pages.php:44
+#: /includes/admin/views/reports/visitors.php:4
+#: /includes/admin/views/reports/visitors.php:30
+#: /includes/admin/views/reports/visitors.php:45
+#: /includes/admin/views/reports/visitors.php:64
+#: ../includes/admin/reports/class- visitors.php:65
+#: ../includes/admin/reports/class-visitors.php:200
+msgid "Pageviews"
+msgstr "Pages vues"
+
+#: ../includes/admin/views/reports/most-visited-pages.php:11 ..
+#: /includes/admin/views/reports/most-visited-pages.php:26
+#: /includes/admin/views/reports/most-visited-pages.php:45
+#: /includes/admin/views/reports/visitors.php:12
+#: ../includes/admin/reports/class- visitors.php:86
+msgid "Visitors"
+msgstr "Visiteurs"
+
+#: ../includes/admin/views/reports/basic-user-identified-contacts.php:8 ..
+#: /includes/admin/views/reports/basic-user-identified-contacts.php:25
+#: /includes/admin/views/reports/basic-user-identified-contacts.php:46
+msgid "Identified date"
+msgstr "Date identifiée"
+
+#: ../includes/admin/views/reports/basic-user-identified-contacts.php:12 ..
+#: /includes/admin/views/reports/basic-user-identified-contacts.php:29
+#: /includes/admin/views/reports/basic-user-identified-contacts.php:50
+msgid "Status"
+msgstr "Statut"
+
+#: ../includes/admin/views/reports/basic-sale-user.php:31
+msgid "Not identified users"
+msgstr "Utilisateurs non identifiés"
+
+#: ../includes/admin/views/reports/visitors.php:8 ..
+#: /includes/admin/views/reports/visitors.php:31
+#: /includes/admin/views/reports/visitors.php:46
+#: /includes/admin/views/reports/visitors.php:65
+#: ../includes/admin/reports/class- visitors.php:234
+msgid "Visits"
+msgstr "Visites"
+
+#: ../includes/admin/views/reports/frequency-search.php:9 ..
+#: /includes/admin/views/reports/frequency-search.php:23
+#: /includes/admin/views/reports/frequency-search.php:41
+msgid "Keyword"
+msgstr "Mot-clé"
+
+#: ../includes/admin/views/reports/frequency-search.php:10 ..
+#: /includes/admin/views/reports/frequency-search.php:24
+#: /includes/admin/views/reports/frequency-search.php:42
+msgid "Frequency"
+msgstr "Fréquence"
+
+#: ../includes/admin/views/reports/basic-contact.php:14 ..
+#: /includes/admin/views/reports/basic-contact.php:28
+#: /includes/admin/views/reports/basic-contact.php:46
+#: /includes/admin/reports/class-basic-contact.php:35
+#: /includes/admin/reports/class-basic-contact.php:58
+#: /includes/admin/reports/class-basic-contact.php:119
+msgid "Contacts"
+msgstr "Contacts"
+
+#: ../includes/admin/views/reports/logins.php:4 ..
+#: /includes/admin/views/reports/logins.php:21
+#: /includes/admin/views/reports/logins.php:36
+#: /includes/admin/views/reports/logins.php:55
+msgid "Success login"
+msgstr "Connexion réussie"
+
+#: ../includes/admin/views/reports/logins.php:8 ..
+#: /includes/admin/views/reports/logins.php:22
+#: /includes/admin/views/reports/logins.php:37
+#: /includes/admin/views/reports/logins.php:56
+msgid "Failed login"
+msgstr "Échec de connexion"
+
+#: ../includes/admin/views/reports/basic-user-register.php:4
+msgid "Registrations"
+msgstr "Inscriptions"
+
+#: ../includes/admin/views/reports/basic-user-register.php:17 ..
+#: /includes/admin/views/reports/basic-user-register.php:31
+#: /includes/admin/views/reports/basic-user-register.php:49
+msgid "New registrations"
+msgstr "Nouvelles inscriptions"
+
+#: ../includes/admin/reports/class-basic-user-register.php:36
+msgid "Number of registrations"
+msgstr "Nombre d’inscriptions"
+
+#: ../includes/admin/reports/class-basic-user-register.php:56
+msgid "Registered"
+msgstr "Inscrits"
+
+#: ../includes/admin/reports/class-basic-sale-total.php:41
+msgid "Total sales"
+msgstr "Ventes totales"
+
+#: ../includes/admin/reports/class-basic-sale-total.php:68
+#, php-format
+msgid "Total: %s (%d sale)<br />Average: %s"
+msgid_plural "Total: %s (%d sales)<br />Average: %s"
+msgstr[0] "Total : %s (%d vente<br />Moyenne : %s"
+msgstr[1] "Total : %s (%d ventes<br />Moyenne : %s"
+
+#: ../includes/admin/reports/class-basic-sale-total.php:74
+msgid "Sales"
+msgstr "Ventes"
+
+#: ../includes/admin/reports/class-visitors.php:41
+msgid "Pageviews and visitors"
+msgstr "Pages vues et visiteurs"
+
+#: ../includes/admin/reports/class-visitors.php:218
+#, php-format
+msgid "Pageviews ( %d )"
+msgstr "Pages vues (%d)"
+
+#: ../includes/admin/reports/class-visitors.php:252
+#, php-format
+msgid "Visits ( %d )"
+msgstr "Visites (%d)"
+
+#: ../includes/admin/reports/class-logins.php:42
+msgid "User logins"
+msgstr "Identifiants"
+
+#: ../includes/admin/reports/class-logins.php:58
+msgid "Success"
+msgstr "Réussie"
+
+#: ../includes/admin/reports/class-logins.php:62
+msgid "Failed"
+msgstr "Échec"
+
+#: ../includes/admin/reports/class-logins.php:71
+msgid "Logins"
+msgstr "Identifiants"
+
+#: ../includes/admin/reports/class-most-visited-pages.php:25 ..
+#: /includes/admin/reports/class-most-visited-pages.php:62
+msgid "Most visited pages"
+msgstr "Pages les plus visitées"
+
+#: ../includes/admin/reports/class-most-visited-pages.php:52
+msgid "No pages found"
+msgstr "Aucune page trouvée"
+
+#: ../includes/admin/reports/class-most-visited-pages.php:170
+msgid "Unrecognized page"
+msgstr "Page non reconnue"
+
+#: ../includes/admin/reports/class-most-visited-pages.php:187
+#, php-format
+msgid "%s ( Front Page )"
+msgstr "%s (Page d’accueil)"
+
+#: ../includes/admin/reports/class-most-visited-pages.php:197
+msgid "Home page"
+msgstr "Page d’accueil"
+
+#: ../includes/admin/reports/class-basic-sale-user.php:47
+msgid "Best buyers"
+msgstr "Meilleurs acheteurs"
+
+#: ../includes/admin/reports/class-basic-sale-user.php:69
+#, php-format
+msgid "%s<br />Total: %s (%d sale)"
+msgid_plural "%s<br />Total: %s (%d sales)"
+msgstr[0] "%s<br />Total: %s (%d vente)"
+msgstr[1] "%s<br />Total: %s (%d ventes)"
+
+#: ../includes/admin/reports/class-basic-sale-user.php:78
+msgid "Best buyer"
+msgstr "Meilleur acheteur"
+
+#: ../includes/admin/reports/class-basic-missed-payments.php:44 ..
+#: /includes/admin/reports/class-basic-missed-payments.php:72
+msgid "Missed payments"
+msgstr "Paiements manqués"
+
+#: ../includes/admin/reports/class-basic-abandoned-carts.php:44
+msgid "Abandoned carts"
+msgstr "Paniers abandonnés"
+
+#: ../includes/admin/reports/class-basic-abandoned-carts.php:72
+msgid "Abandoned Carts"
+msgstr "Paniers abandonnés"
+
+#: ../includes/admin/reports/class-basic-user-identified-contacts.php:25 ..
+#: /includes/admin/reports/class-basic-user-identified-contacts.php:66
+msgid "Recently identified"
+msgstr "Récemment identifiés"
+
+#: ../includes/admin/reports/class-frequency-search.php:25
+msgid "Most frequently searched keywords"
+msgstr "Mots-clés les plus fréquemment recherchés"
+
+#: ../includes/admin/reports/class-frequency-search.php:55
+msgid "Most frequently searched keyword"
+msgstr "Mot-clés le plus fréquemment recherché"
+
+#: ../includes/events/contact.php:126
+#, php-format
+msgid "Contact from %s"
+msgstr "Contact de %s"
+
+#: ../includes/events/contact.php:150
+msgid "Source:"
+msgstr "Source:"
+
+#: ../includes/events/comment.php:64
+#, php-format
+msgid "New comment on <a href=\"%s\">%s</a>"
+msgstr "Nouveau commentaire sur <a href=\"%s\">%s</a>"
+
+#: ../includes/events/pageview.php:73
+msgid "Pageview"
+msgstr "Vue de la page"
+
+#: ../includes/events/pageview.php:119
+#, php-format
+msgid "<a href=\"%s\">Visited page</a>"
+msgstr "<a href=\"%s\">Page visitée</a>"
+
+#: ../includes/events/pageview.php:121
+msgid "Visited page"
+msgstr "Page visitée"
+
+#: ../includes/events/pageview.php:127
+#, php-format
+msgid "<a href=\"%s\">Home page</a> was visited"
+msgstr "<a href=\"%s\">La page d’accueil</a> a été visitée"
+
+#: ../includes/events/pageview.php:144
+#, php-format
+msgid "<a href=\"%s\">%s</a> was visited"
+msgstr "<a href=\"%s\">%s</a> a été visité"
+
+#: ../includes/events/pageview.php:150
+#, php-format
+msgid "Post <a href=\"%s\">%s</a> was visited"
+msgstr "L’article <a href=\"%s\">%s</a> a été visité"
+
+#: ../includes/events/pageview.php:156
+#, php-format
+msgid "Page <a href=\"%s\">%s</a> was visited"
+msgstr "La page <a href=\"%s\">%s</a> a été visité"
+
+#: ../includes/events/pageview.php:174
+msgid "Visited URL:"
+msgstr "URL visitée :"
+
+#: ../includes/events/pageview.php:186 ../includes/events/pageview.php:190
+msgid "Traffic source:"
+msgstr "Source de trafic :"
+
+#: ../includes/events/pageview.php:191
+msgid "Direct"
+msgstr "Direct"
+
+#: ../includes/events/pageview.php:196
+msgid "Query args:"
+msgstr "Requête args"
+
+#: ../includes/events/remove_from_cart.php:92
+#: ../includes/events/remove_from_cart. php:100
+#, php-format
+msgid "<a href=\"%s\">%s</a> was removed from cart"
+msgstr "<a href=\"%s\">%s</a> a été retiré du panier"
+
+#: ../includes/events/remove_from_cart.php:123
+#: ../includes/events/add_to_cart.php:124
+msgid ""
+"Easy Digital Downloads is disabled. Activate the plugin to see more "
+"information."
+msgstr ""
+"Le plugin Easy Digital Downloads est désactivé. Activer le plugin pour "
+"afficher des informations supplémentaires."
+
+#: ../includes/events/remove_from_cart.php:134 ..
+#: /includes/events/remove_from_cart.php:139
+#: ../includes/events/add_to_cart.php:135
+#: ../includes/events/add_to_cart.php:140
+msgid "Quantity:"
+msgstr "Quantité :"
+
+#: ../includes/events/remove_from_cart.php:144
+#: ../includes/events/payment.php:171 ../includes/events/add_to_cart.php:145
+#: ../includes/events/order.php:147
+msgid "Sales platform:"
+msgstr "Plate-forme de vente :"
+
+#: ../includes/events/login.php:27
+msgid "Successful login"
+msgstr "Connexion réussie"
+
+#: ../includes/events/login.php:53
+#, php-format
+msgid "Failed login. Tried to sign in as %s"
+msgstr "Échec de connexion. Essayé de de vous connecter en tant que %s"
+
+#: ../includes/events/login.php:76
+#, php-format
+msgid "Failed login. Tried to sign in as <q>%s</q>"
+msgstr "Échec de connexion. Essayé de de vous connecter en tant que <q>%s</q>"
+
+#: ../includes/events/login.php:80
+#, php-format
+msgid "Succesful login as <a href=\"%s\">%s</a>"
+msgstr "Connexion réussie comme <a href=\"%s\">%s</a>"
+
+#: ../includes/events/register.php:29
+msgid "User registred"
+msgstr "Utilisateur enregistré"
+
+#: ../includes/events/payment.php:133
+#, php-format
+msgid "New payment in the amount of %s"
+msgstr "Nouveau versement d’un montant de %s"
+
+#: ../includes/events/payment.php:155 ../includes/events/payment.php:165 ..
+#: /includes/events/order.php:131 ../includes/events/order.php:141
+msgid "Link:"
+msgstr "Lien :"
+
+#: ../includes/events/payment.php:156 ../includes/events/payment.php:166 ..
+#: /includes/events/order.php:132 ../includes/events/order.php:142
+#, php-format
+msgid "Order #%d"
+msgstr "Commande n°%d"
+
+#: ../includes/events/add_to_cart.php:93 ../includes/events/add_to_cart.php:101
+#, php-format
+msgid "<a href=\"%s\">%s</a> was added to cart"
+msgstr "<a href=\"%s\">%s</a> a été ajouté au panier"
+
+#: ../includes/events/search.php:44
+#, php-format
+msgid "Searched phrase: %s"
+msgstr "Termes recherchés : %s"
+
+#: ../includes/events/order.php:30 ../includes/events/order.php:71
+msgid "Order"
+msgstr "Commander"
+
+#: ../includes/events/order.php:109
+#, php-format
+msgid "New order in the amount of %s"
+msgstr "Nouvelle commande d’un montant de %s"
+
+#: ../includes/events/identified.php:50
+#, php-format
+msgid "User identified: %s"
+msgstr "Utilisateur identifié : %s"
